@@ -37,8 +37,8 @@ Perfect for **Instagram bio**, **LinkedIn**, and **personal branding**.
 ## 🚀 Live Demo
 
 🌐 **Live Website:**  
-👉 https://ziyan-links.netlify.app  
-
+👉  [Ziyan-Links.netlify.app](https://ziyan-links.netlify.app)
+  
 
 ---
 
@@ -63,9 +63,12 @@ and connected with **GitHub** for automatic deployment.
 **Ziyan Khan**  
 Web Developer | UI/UX Enthusiast  
 
-- 🌐 Portfolio: https://ziyankhan.netlify.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/ziyan-khan-b479332a7  
-- 📸 Instagram: https://www.instagram.com/mr__ziyan__khan  
+- 🌐 Portfolio:  [Link]( https://ziyankhan.netlify.app )
+ 
+- 💼 LinkedIn: [Link](https://www.linkedin.com/in/ziyan-khan-b479332a7)
+   
+- 📸 Instagram:  [Link]( https://www.instagram.com/mr__ziyan__khan)
+  
 
 ---
 
